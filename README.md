@@ -1,7 +1,8 @@
 # High Level Amazon S3 Client
 
-Fork from https://github.com/andrewrk/node-s3-client
+Fork from https://github.com/auth0/node-s3-clien
 
+Need to change the fullPath when downloading a file.
 ## Installation
 
 `npm install @auth0/s3 --save`
